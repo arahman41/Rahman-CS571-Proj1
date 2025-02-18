@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ateeq\\OneDrive\\Pictures\\Student documents\\Bing Docs\\Class docs\\Programming languages\\project1-main\\project1-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ateeq\\OneDrive\\Pictures\\Student documents\\Bing Docs\\Class docs\\Programming languages\\project1-main\\project1-main\\expr.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:expr.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ateeq\\OneDrive\\Pictures\\Student documents\\Bing Docs\\Class docs\\Programming languages\\project1-main\\project1-main\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ateeq\\OneDrive\\Pictures\\Student documents\\Bing Docs\\Class docs\\Programming languages\\project1-main\\project1-main\\instructions.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:instructions.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "expr.c",
+              "DocumentMoniker": "C:\\Users\\ateeq\\OneDrive\\Pictures\\Student documents\\Bing Docs\\Class docs\\Programming languages\\project1-main\\project1-main\\expr.c",
+              "RelativeDocumentMoniker": "expr.c",
+              "ToolTip": "C:\\Users\\ateeq\\OneDrive\\Pictures\\Student documents\\Bing Docs\\Class docs\\Programming languages\\project1-main\\project1-main\\expr.c",
+              "RelativeToolTip": "expr.c",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-17T21:17:46.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\ateeq\\OneDrive\\Pictures\\Student documents\\Bing Docs\\Class docs\\Programming languages\\project1-main\\project1-main\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "C:\\Users\\ateeq\\OneDrive\\Pictures\\Student documents\\Bing Docs\\Class docs\\Programming languages\\project1-main\\project1-main\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-17T21:14:53.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "instructions.md",
+              "DocumentMoniker": "C:\\Users\\ateeq\\OneDrive\\Pictures\\Student documents\\Bing Docs\\Class docs\\Programming languages\\project1-main\\project1-main\\instructions.md",
+              "RelativeDocumentMoniker": "instructions.md",
+              "ToolTip": "C:\\Users\\ateeq\\OneDrive\\Pictures\\Student documents\\Bing Docs\\Class docs\\Programming languages\\project1-main\\project1-main\\instructions.md*",
+              "RelativeToolTip": "instructions.md*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-02-17T21:14:00.397Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
